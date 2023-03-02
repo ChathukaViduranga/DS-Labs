@@ -1,4 +1,4 @@
 # DS-Labs
 
-- [ ] Lab1
+- [x] Lab1
 - [ ] Lab2
