@@ -38,13 +38,13 @@ public class ChatClient {
 
 	BufferedReader in;
 	PrintWriter out;
-	JFrame frame = new JFrame("Chatter");
+	JFrame frame = new JFrame("Bodime Chat eka");
 	JTextField textField = new JTextField(40);
 	JTextArea messageArea = new JTextArea(8, 40);
 
 	// TODO: Add a list box
 	/* Add checkbox for Broadcast feature */
-	JCheckBox checkBox = new JCheckBox("Broadcast");
+	JCheckBox checkBox = new JCheckBox("Hamotama");
 	
 	/* Add list to show client list */
 	JList userlist = new JList();
